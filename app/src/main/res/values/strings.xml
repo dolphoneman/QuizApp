@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="nameHere">First Name</string>
+
+    <string name="question1">1. What does CPU stand for?</string>
+    <string name="question1answer1">Chocolate Production Utility</string>
+    <string name="question1answer2">Central Processing Unit</string>
+    <string name="question1answer3">Computer Processing Unit</string>
+    <string name="question1answer4">Compact Processing Unit</string>
+
+    <string name="question2">2. Parts of a computer \n(check all that apply)</string>
+    <string name="question2answer1">Power Supply</string>
+    <string name="question2answer2">CPU</string>
+    <string name="question2answer3">Hash Tags</string>
+    <string name="question2answer4">RAM</string>
+    <string name="question2answer5">DVDs</string>
+    <string name="question2answer6">Network Interface Card</string>
+
+    <string name="question3">3. Most computers manufactured today are 32-bit.</string>
+    <string name="fact">True</string>
+    <string name="lie">False</string>
+
+    <string name="question4">4. The ______ is the brains of the computer.</string>
+    <string name="answerHere">Answer</string>
+
+    <string name="question5">5. This type of memory is non-volatile.</string>
+    <string name="question5answer1">RAM</string>
+    <string name="question5answer2">ROM</string>
+    <string name="question5answer3">DIMM</string>
+    <string name="question5answer4">None of the above</string>
+
+    <string name="question6">6. These internal upgrades can increase a computers capabilities. \n(check all that apply)</string>
+    <string name="question6answer1">Video Card</string>
+    <string name="question6answer2">Mouse</string>
+    <string name="question6answer3">RAM</string>
+    <string name="question6answer4">Hard Drive (SSD)</string>
+    <string name="question6answer5">Thumb Drive</string>
+
+    <string name="question7">7. The CPU can be kept from over heating with this non-mechanical component.</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="hello">Hello</string>
+    <string name="score">Your score is </string>
+
+    <string name="forgotAnswer1">Did you forget to answer question 1?</string>
+    <string name="forgotAnswer2">Did you forget to answer question 2?</string>
+    <string name="forgotAnswer3">Did you forget to answer question 3?</string>
+    <string name="forgotAnswer4">Did you forget to answer question 4?</string>
+    <string name="forgotAnswer5">Did you forget to answer question 5?</string>
+    <string name="forgotAnswer6">Did you forget to answer question 6?</string>
+    <string name="forgotAnswer7">Did you forget to answer question 7?</string>
+
+    <string name="forgotAnswer">Did you forget to answer question </string>
+</resources>
